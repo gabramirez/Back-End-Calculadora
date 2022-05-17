@@ -18,22 +18,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
-Linux e macOS:
 ```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
+<npm install>
 ```
 
 ## ☕ Usando 
 
-Para usar <nome_do_projeto>, siga estas etapas:
-
 ```
-<exemplo_de_uso>
+<nodemon app.js>
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
