@@ -12,7 +12,7 @@ Para se conectar, siga estes passos:
 
 ## 🚀 Instalando
 
-Para instalar o projeto, siga estas etapas:
+Para instalar o node.js projeto, siga estas etapas:
 
 ```
 <npm install>
