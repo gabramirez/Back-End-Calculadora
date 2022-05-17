@@ -16,7 +16,7 @@ Para se conectar, siga estes passos:
 
 ## 🚀 Instalando
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o projeto, siga estas etapas:
 
 ```
 <npm install>
